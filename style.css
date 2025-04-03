@@ -912,7 +912,7 @@ footer {
 }
 
 /* Enhance dark mode compatibility */
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {
   :root {
     --light: #0f172a;
     --dark: #f8fafc;
@@ -942,3 +942,4 @@ footer {
     color: #f8fafc;
   }
 }
+*/
